@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "142162705255",
+    "firebase_url": "https://admin-control-of-madrasha-default-rtdb.firebaseio.com",
+    "project_id": "admin-control-of-madrasha",
+    "storage_bucket": "admin-control-of-madrasha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142162705255:android:628ec320825356f7754dc2",
+        "android_client_info": {
+          "package_name": "com.masud.admincontrol_madrasha_app_practic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142162705255-mqm0pimfntubdbj29g7bd3ium8c9e264.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknsIKz16Y_r1Obsb19IWI0tt6oedLJ6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142162705255-mqm0pimfntubdbj29g7bd3ium8c9e264.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142162705255:android:fcb9d3020d9fdb07754dc2",
+        "android_client_info": {
+          "package_name": "com.masud.demo2activityownpracjtice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142162705255-mqm0pimfntubdbj29g7bd3ium8c9e264.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknsIKz16Y_r1Obsb19IWI0tt6oedLJ6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142162705255-mqm0pimfntubdbj29g7bd3ium8c9e264.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
